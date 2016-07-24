@@ -1,0 +1,4 @@
+.git
+.gitignore
+*.pyc
+node_modules
